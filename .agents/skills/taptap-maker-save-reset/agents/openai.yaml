@@ -1,0 +1,4 @@
+interface:
+  display_name: "TapTap 游戏存档重置"
+  short_description: "实现 TapTap Maker 本地与云端存档重置、排行榜清理及旧备份回流防护。"
+  default_prompt: "使用 $taptap-maker-save-reset，结合当前项目代码完成实现与验证。"

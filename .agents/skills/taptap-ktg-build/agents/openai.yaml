@@ -1,0 +1,3 @@
+interface:
+  display_name: "KTG 快速提交构建"
+  short_description: "一句 KTG 触发的 TapTap Maker 快速提交构建"

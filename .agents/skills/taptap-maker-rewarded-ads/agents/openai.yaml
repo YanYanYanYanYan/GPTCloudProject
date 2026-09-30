@@ -1,0 +1,4 @@
+interface:
+  display_name: "TapTap 激励广告接入与优化"
+  short_description: "接入和排查 TapTap Maker 激励广告，处理加载慢、重试、白屏、失声和重复发奖。"
+  default_prompt: "使用 $taptap-maker-rewarded-ads，结合当前项目代码完成实现与验证。"
