@@ -1,0 +1,5 @@
+interface:
+  display_name: "TapTap 埋点与广告观看统计"
+  short_description: "为 TapTap Maker 游戏实现里程碑、关卡漏斗、退出原因和分来源广告观看统计。"
+  default_prompt: "使用 $taptap-maker-game-analytics，结合当前项目代码完成实现与验证。"
+

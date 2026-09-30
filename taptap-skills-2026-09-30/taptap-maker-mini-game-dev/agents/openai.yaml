@@ -1,0 +1,4 @@
+interface:
+  display_name: "TapTap Maker 小游戏开发"
+  short_description: "制作、调优、构建并发布 TapTap Maker 小游戏"
+  default_prompt: "使用 $taptap-maker-mini-game-dev 开发、诊断、调优或构建当前 TapTap Maker 小游戏。"
